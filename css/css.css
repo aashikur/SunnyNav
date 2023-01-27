@@ -21,7 +21,8 @@ body{
 
 .navigation {
     position: relative;
-    width: 400px;
+    border-left: 25px solid var(--bclr);
+    width: 330px;
     height: 70px;
     background: var(--bclr);
     display: flex;
